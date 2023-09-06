@@ -1,0 +1,5 @@
+# Исключаем JSON-файлы
+*.json
+
+# Исключаем папку node_modules
+node_modules
